@@ -1,0 +1,651 @@
+{
+    "homeData": [
+        {
+            "id": 1,
+            "title": "精品专区",
+            "data": [
+                {
+                    "id": 1,
+                    "img_url": "/static/img/iphone13pro.jpg",
+                    "name": "iPhone13 Pro",
+                    "content": "坚固耐用的设计，出类拔萃",
+                    "bright": "0首付0利息购机，购机赠豪礼",
+                    "title": "Pro 级摄像头系统，能力强悍提升； 显示屏响应之快，让体验全面刷新； 芯片速度再创 iPhone 巅峰； 坚固耐用的设计，出类拔萃； 电池续航更是大步飞跃。",
+                    "price": "8999",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/iphone13pro1-1.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/iphone13pro1-2.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/iphone13pro1-3.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/iphone13procontent.jpg"
+                        },
+                        {
+                            "one": "/static/img/iphone13procontent-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "img_url": "/static/img/iphone13.jpg",
+                    "name": "iPhone 13",
+                    "content": "超视网膜 XDR 显示屏",
+                    "bright": "iPhone 的 5G，就是不一般",
+                    "title": "世界正迅速迈入 5G 时代。从在线享受流媒体到下载，一切都在大加速。",
+                    "price": "5999",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/iphone13-1.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/iphone13-2.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/iphone13-3.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/iphone13content.jpg"
+                        },
+                        {
+                            "one": "/static/img/iphone13content-1.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "热卖专区",
+            "data": [
+                {
+                    "id": 3,
+                    "img_url": "/static/img/iphonese2022.jpg",
+                    "name": "iPhone SE",
+                    "content": "重磅实力，轻松入手",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/apple-iphone-se-2022-0.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-iphone-se-2022-1.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-iphone-se-2022-2.jpg"
+                        }
+                    ],
+                    "bright": "花呗免息，0首付0利率轻松购机",
+                    "title": "iPhone SE 有一颗强劲的心，那就是 iPhone 13 的同款芯片，性能超强的 A15 仿生。",
+                    "price": "3699",
+                    "value": "1",
+                    "Images": [
+                        {
+                            "one": "/static/img/iphonese2022content.jpg"
+                        },
+                        {
+                            "one": "/static/img/iphonese2022content-1.jpg"
+                        }
+                    ],
+                    "homePeizhi": ""
+                },
+                {
+                    "id": 4,
+                    "img_url": "/static/img/apple-iphone-12-r1.jpg",
+                    "name": "iPhone 12",
+                    "content": "iPhone 12 饱含满满实力，两款尺寸款款称手。",
+                    "bright": "iPhone 12 和 iPhone 12 mini升维大提速。",
+                    "title": "性能强劲的芯片、网速飞快的 5G、出色的双摄系统、硬度超越玻璃面板的超瓷晶面板，以及亮丽的 OLED 显示屏。",
+                    "price": "5199",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/apple-iphone-12-2.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-iphone-12-3.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-iphone-12-4.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/iphone12content.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "img_url": "/static/img/iphone11.jpg",
+                    "name": "iPhone 11",
+                    "content": "6.1 英寸 Liquid 视网膜高清显示屏",
+                    "bright": "双摄系统，支持夜间模式、人像模式以及最高达 60 fps 的 4K 视频拍摄",
+                    "title": "A13 仿生芯片，拥有神经网络引擎",
+                    "price": "3999",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/apple-iphone-11-1.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-iphone-11-2.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-iphone-11-3.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/iphone11content.jpg"
+                        },
+                        {
+                            "one": "/static/img/iphone11content-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "img_url": "/static/img/apple-ipad-air-2022-1.jpg",
+                    "name": "iPad 2022",
+                    "content": "iPad 就是那么不一样",
+                    "bright": "0首付0利息购机，购机赠豪礼",
+                    "title": "新款 iPad 不但功能强大，还简单易用、灵活多用。它专为你的各种喜好而设计，用来工作、娱乐、创作、学习、联络都称手，而且能超值入手。",
+                    "price": "2499",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/apple-ipad-air-2022-1.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-ipad-air-2022-2.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/apple-ipad-air-2022-3.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/ipadcontent.jpg"
+                        },
+                        {
+                            "one": "/static/img/ipadcontent-1.jpg"
+                        },
+                        {
+                            "one": "/static/img/ipadcontent-2.jpg"
+                        },
+                        {
+                            "one": "/static/img/ipadcontent-3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "img_url": "/static/img/macbookpro13.png",
+                    "name": "MacBook Pro",
+                    "content": "M1 Pro 为专业用户，将 M1 芯片架构的潜能飙升到全新境界。",
+                    "bright": "我们迄今最强的 MacBook Pro 来了。",
+                    "title": "搭载首次为专业用户设计的 Apple 芯片：超高速 M1 Pro 或 M1 Max，带来性能和续航的颠覆性提升。",
+                    "price": "7999",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/macbook01.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/macbook02.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/macbook03.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/macbookcontent.jpg"
+                        },
+                        {
+                            "one": "/static/img/macbookcontent-1.jpg"
+                        },
+                        {
+                            "one": "/static/img/macbookcontent-2.jpg"
+                        },
+                        {
+                            "one": "/static/img/macbookcontent-3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "img_url": "/static/img/watch.jpg",
+                    "name": "WATCH",
+                    "content": "事事拿手，轻松入手。",
+                    "bright": "全天候视网膜显示屏",
+                    "title": "屏幕区域比 Series 3增大超过 50%",
+                    "price": "3199",
+                    "value": "1",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/watchcontent.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/watchcontent-1.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/watchcontent-2.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/watch-1.jpg"
+                        },
+                        {
+                            "one": "/static/img/watch-2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "手机配件",
+            "data": [
+                {
+                    "id": 9,
+                    "img_url": "/static/img/airpods.jpg",
+                    "name": "AirPods",
+                    "content": "跨各种设备，巧妙连接。",
+                    "bright": "全新Airpods已登场",
+                    "title": "Apple AirPods (第三代) 配MagSafe无线充电盒 无线蓝牙耳机 Apple耳机 适用iPhone/iPad/Apple Watch",
+                    "value": "1",
+                    "price": "1399",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/airpods.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/airpods-1.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/airpodscontent.jpg"
+                        },
+                        {
+                            "one": "/static/img/airpodscontent-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "img_url": "/static/img/beats.jpg",
+                    "name": "Beats Fit Pro",
+                    "content": "全新Beats Fit pro",
+                    "bright": "一转即合 与音乐为伍",
+                    "title": "Beats Fit Pro 真无线降噪耳机 运动蓝牙耳机 兼容苹果安卓系统 IPX4级防水",
+                    "value": "1",
+                    "price": "1399",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/beats.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/beats-1.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/beatscontent01.jpg"
+                        },
+                        {
+                            "one": "/static/img/beatscontent02.jpg"
+                        },
+                        {
+                            "one": "/static/img/beatscontent03.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "img_url": "/static/img/homepod.jpg",
+                    "name": "HomePod Mini",
+                    "content": "360度音频环绕,私密又安全的智能家居!",
+                    "bright": "直降10元，限时促销",
+                    "title": "Apple HomePod mini 智能音响/音箱  蓝牙音响/音箱 智能家居",
+                    "value": "1",
+                    "price": "749",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/homepod.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/homepods01.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/homepodscontent.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "img_url": "/static/img/magsafe.jpg",
+                    "name": "MagSafe磁吸",
+                    "content": "随时随地都能轻松充电",
+                    "bright": "磁吸充电宝",
+                    "title": "Apple苹果原装充电宝MagSafe磁吸外接移动电源",
+                    "value": "1",
+                    "price": "599",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/magsafe.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/magsafe01.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/magsafe02.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/magsafecontent.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "img_url": "/static/img/strap.jpg",
+                    "name": "表带",
+                    "content": "适用于大部分 Apple Watch 表款。",
+                    "bright": "弹性设计 佩戴舒适",
+                    "title": "45 毫米橘粉色编织单圈表带",
+                    "value": "1",
+                    "price": "779",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/strap.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/strap01.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/strap02.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/strapcontent.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "img_url": "/static/img/case.jpg",
+                    "name": "硅胶保护壳",
+                    "content": "MagSafe磁吸配件",
+                    "bright": "硅胶保护壳",
+                    "title": "iPhone 13 Pro 专用 MagSafe 硅胶保护壳",
+                    "value": "1",
+                    "price": "399",
+                    "swiper": [
+                        {
+                            "swipe": "/static/img/case.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/case01.jpg"
+                        },
+                        {
+                            "swipe": "/static/img/case02.jpg"
+                        }
+                    ],
+                    "Images": [
+                        {
+                            "one": "/static/img/casecontent.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "accessories": [
+        {
+            "id": 1,
+            "name": "全部",
+            "data": [
+                {
+                    "id": 9,
+                    "img_url": "/static/img/airpods.jpg",
+                    "name": "AirPods",
+                    "content": "全新Airpods已登场",
+                    "bright": "前50名下单用户送体脂秤",
+                    "title": "超长续航，IP68级防水。中奖用户体脂秤将在5月31日前单独发出。",
+                    "value": "1",
+                    "price": "1399"
+                },
+                {
+                    "id": 8,
+                    "img_url": "/static/img/beats.jpg",
+                    "name": "Beats Fit Pro",
+                    "content": "一转即合 与音乐为伍",
+                    "value": "1",
+                    "price": "1399"
+                },
+                {
+                    "id": 9,
+                    "img_url": "/static/img/homepod.jpg",
+                    "name": "HomePod Mini",
+                    "content": "直降10元，限时促销",
+                    "value": "1",
+                    "price": "749"
+                },
+                {
+                    "id": 10,
+                    "img_url": "/static/img/magsafe.jpg",
+                    "name": "MagSafe磁吸",
+                    "content": "磁吸充电宝",
+                    "value": "1",
+                    "price": "599"
+                },
+                {
+                    "id": 11,
+                    "img_url": "/static/img/strap.jpg",
+                    "name": "表带",
+                    "content": "弹性设计 佩戴舒适",
+                    "value": "1",
+                    "price": "779"
+                },
+                {
+                    "id": 12,
+                    "img_url": "/static/img/case.jpg",
+                    "name": "硅胶保护壳",
+                    "content": "硅胶保护壳",
+                    "value": "1",
+                    "price": "399"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "耳机",
+            "data": [
+                {
+                    "id": 10,
+                    "img_url": "/static/img/airpods.jpg",
+                    "name": "AirPods",
+                    "content": "全新Airpods已登场",
+                    "value": "1",
+                    "price": "1399"
+                },
+                {
+                    "id": 10,
+                    "img_url": "/static/img/beats.jpg",
+                    "name": "Beats Fit Pro",
+                    "content": "一转即合 与音乐为伍",
+                    "value": "1",
+                    "price": "1399"
+                }
+                ]
+        },
+        {
+            "id": 3,
+            "name": "充电宝",
+            "data": [
+                {
+                    "id": 11,
+                    "img_url": "/static/img/magsafe.jpg",
+                    "name": "MagSafe磁吸",
+                    "content": "磁吸充电宝",
+                    "value": "1",
+                    "price": "599"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "保护壳",
+            "data": [
+                {
+                    "id": 12,
+                    "img_url": "/static/img/case.jpg",
+                    "name": "硅胶保护壳",
+                    "content": "iPhone 13 Pro 专用 MagSafe 硅胶保护壳",
+                    "value": "1",
+                    "price": "399"
+                }
+            ]
+        }
+    ],
+    "phone": [
+        {
+            "id": 1,
+            "name": "全部",
+            "data": [
+                {
+                    "id": "1",
+                    "img_url": "/static/img/iphone13pro.jpg",
+                    "name": "iPhone13 Pro",
+                    "content": "0首付0利息购机，购机赠豪礼",
+                    "price": "8999"
+                },
+                {
+                    "id": "2",
+                    "img_url": "/static/img/apple-iphone-12-r1.jpg",
+                    "content": "iPhone 12 和 iPhone 12 mini升维大提速。",
+                    "name": "iPhone 12",
+                    "price": "5199"
+                },
+                {
+                    "id": "3",
+                    "img_url": "/static/img/iphonese2022.jpg",
+                    "name": "iPhone SE",
+                    "content": "花呗免息，0首付0利率轻松购机",
+                    "price": "3699"
+                },
+                {
+                    "id": "4",
+                    "img_url": "/static/img/iphone11.jpg",
+                    "name": "iPhone 11",
+                    "content": "A13 仿生芯片，拥有神经网络引擎",
+                    "price": "3998"
+                },
+                {
+                    "id": "5",
+                    "img_url": "/static/img/macbookpro13.png",
+                    "name": "MacBook Pro",
+                    "content": "我们迄今最强的 MacBook Pro 来了。",
+                    "price": "7999"
+                },
+                {
+                    "id": "6",
+                    "img_url": "/static/img/apple-ipad-air-2022-1.jpg",
+                    "name": "iPad 2022",
+                    "content": "0首付0利息购机，购机赠豪礼",
+                    "price": "2499"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "iPhone",
+            "data": [
+                {
+                    "id": "4",
+                    "img_url": "/static/img/iphone13pro.jpg",
+                    "name": "iPhone13 Pro",
+                    "content": "0首付0利息购机，购机赠豪礼",
+                    "price": "8999"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "MacBook",
+            "data": [
+                {
+                    "id": "1",
+                    "img_url": "/static/img/macbookpro13.png",
+                    "name": "MacBook Pro",
+                    "content": "我们迄今最强的 MacBook Pro 来了。",
+                    "price": "7999"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "iPad",
+            "data": [
+                {
+                    "id": "5",
+                    "img_url": "/static/img/apple-ipad-air-2022-1.jpg",
+                    "name": "iPad 2022",
+                    "content": "0首付0利息购机，购机赠豪礼",
+                    "price": "2499"
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "id": 1,
+            "newsTitle": "iOS 16升级细节曝光：苹果提升速度 iPhone 6S等欲被抛弃",
+            "newsImg": "https://n.sinaimg.cn/spider20220412/100/w600h300/20220412/4599-7ab0ec651864416e40b55850f7739979.jpg",
+            "newsCon": "苹果提升速度 iPhone 6S等欲被抛弃",
+            "newsTime": "22-4-20",
+            "sc": false,
+            "newsDetail":"<p style='margin-top:95px;margin-bottom:10px'>外媒最新消息称，今年苹果在iOS 16上的改动还是以稳为主，不过系统的通知更新会成为他们主要升级的方向。</br> <br>按照外媒的说法，iOS 16将整体功能性会全面增强，包括对通知的更新，系统代号为悉尼，整体运行速度也会有所加强，这势必要导致一些老款iPhone被抛弃。</br><br>按照之前的说法，iOS 16将不再支持 iPhone 6s、iPhone 6s Plus 以及初代iPhone SE。</br><br>报道中还提到，iPad方面，iPadOS 16将不再兼容iPad mini 4、iPad Air 2、iPad（第五代）和2015款iPad Pro。当然，正式确认还需要等到2022年6月举行的 WWDC。</br><br>其实苹果对于老机型的支持力度还是相当可以的，而iOS 15上iPhone 6S系列依然在升级名单当中，不过这样的老机型更新新系统意义也不大，很多功能没法正常使用，系统的流畅性也多少有些欠缺，尽管苹果已经特别优化了。</br><br>之前就有消息人士表示，苹果在iOS系统中加入的新功能越来越多，这对内存的消耗会越来越大，所以那些小内存机型就会被淘汰，这也是情理之中的事情，即便保留象征意义也要大于实际意义。</br> </p><img src='https://n.sinaimg.cn/spider20220412/100/w600h300/20220412/4599-7ab0ec651864416e40b55850f7739979.jpg' style='margin-bottom:10px;width:100%'>"
+        },
+        {
+            "id": 2,
+            "newsTitle": "苹果再次回应不送充电器",
+            "newsImg": "https://inews.gtimg.com/newsapp_bt/0/14793783065/1000",
+            "newsCon": "从2020年的iPhone 12开始，苹果就宣布不再附送充电器了，做出这个决定的理由是为了环保。",
+            "newsTime": "2022-4-19",
+            "sc": false,
+            "newsDetail": "<p style='margin-top:95px;margin-bottom:10px' >距离2020年九月，目前已经过去一年半了，这也意味着经常更新换代的iPhone用户们，早已经习惯了购机不附送充电器的日子了。从2020年的iPhone 12开始，苹果就宣布不再附送充电器了，做出这个决定的理由是为了环保。当时的舆论是非常轰动的，反对声相当之大，毕竟会有新用户从安卓阵营转过去，而苹果又是独有的Lightning接口，想要使用就必须另行购买，很明显苹果这是将这部分的成本转移到了消费者头上。</p><img src='https://inews.gtimg.com/newsapp_bt/0/14793783065/1000' style='margin-bottom:10px;width:100%'><p>可能会有果粉会觉得，苹果是将充电器的成本给扣除了，目前的价格就是已经优惠过的价格，可问题是咱们也不清楚苹果内部是如何定成本价的，谁知道它扣除了没，反正去买官网购买充电套装，几百块钱的代价是咱们另外支付的。日前，苹果发布了环保成绩单，再一次回应iPhone包装盒不再外封塑料膜和取消随附充电器的决定。</p><img src='https://inews.gtimg.com/newsapp_bt/0/14793783236/1000' style='margin-bottom:10px;width:100%'><p>苹果官方表示，通过重新设计，苹果彻底淘汰了包覆iPhone盒体的塑料膜，减少了600吨塑料用量，iPhone 13 包装里的屏幕保护膜也改由再生纤维制成。同时表示，虽然换了材料，但开箱的手感还是那么利落。</p><img src='https://inews.gtimg.com/newsapp_bt/0/14793783237/1000' style='margin-bottom:10px;width:100%'><p>在iPhone13系列身上，苹果采用了100%再生金用于主板镀层和前后摄像头的排线，100%再生锡用于主板焊料，而造就iPhone振动口碑的触感引擎，也转用了100%再生钨。<img src='https://inews.gtimg.com/newsapp_bt/0/14793783238/1000' style='margin-bottom:10px;width:100%'>甚至每一度电都是精打细算，凭借着iOS智能管理功耗，iPhone 13充电比节能标准还要省电54%。</p><img src='https://inews.gtimg.com/newsapp_bt/0/14793783402/1000' style='margin-bottom:10px;width:100%'><p>除了iPhone以外，苹果还在iPad、Apple Watch、键盘、显示器边框等，都采用了环保的措施，从报告来看，苹果确实是在一步一个脚印的落实2030年实现碳中和的目标。最后，你觉得苹果的环保怎么样呢？</p>"},
+        {
+            "id": 3,
+            "newsTitle": "iPhone14又有新惊喜：全新配色惹人爱",
+            "newsImg": "https://p1.itc.cn/q_70/images03/20220425/e6254807febd42769fb7dbe1b55798fd.jpeg",
+            "newsCon": "iPhone 14 系列将提供更新的颜色选择",
+            "newsTime": "2022-4-15",
+            "newsDetail": "<p style='margin-top:95px;margin-bottom:10px'>4 月 23 日消息，据 MacRumors 报道，一些消息来源表示，iPhone 14 系列将提供更新的颜色选择，包括全新的紫色，并采用新的 True Tone 闪光灯设计。</p><img src='https://p1.itc.cn/q_70/images03/20220425/e6254807febd42769fb7dbe1b55798fd.jpeg' style='margin-bottom:10px;width:100%'><p>该爆料（原微博已删除）声称揭示了苹果即将推出的 iPhone 14 和 iPhone 14 Pro 机型的全部颜色选择。<img src='https://p1.itc.cn/q_70/images03/20220425/c89336ee67ce46b193cc1e3eadcb3c0a.jpeg' style='margin-bottom:10px;width:100%'><img src='https://p9.itc.cn/q_70/images03/20220425/954cddc344cd489782c566501c5f408f.png' style='margin-bottom:10px;width:100%'><p>据报道，iPhone 14 和 iPhone 14 Max 将提供黑色、白色、蓝色、红色和紫色，而 iPhone 14 Pro 和 iPhone 14 Pro Max 将提供石墨、金色、银色和紫色。iPhone 14 和 iPhone 14 Pro 的紫色据说包含独特的饰面，可以根据照明条件改变色调。</p></br><p>该帖子还声称，iPhone 14 机型将配备新的 True Tone 闪光灯，看起来像“一个大圆圈中包含小圆圈”，而不是当前的设计，即在两个独立的半球中包含两个小 LED。</p> </br> <p>近年来，苹果在推出新 iPhone 机型时，除了提供更多中性色调外，还提供了引人注目的新颜色选择。鉴于苹果在去年 4 月的周期中期更新中推出了紫色 iPhone 12 和 iPhone 12 mini 以得到客户的积极响应，以及 24 英寸 iMac，因此 iPhone 14 和 iPhone 14 Pro 的紫色选项似乎是合理的，iPad mini 6 和 iPad Air 5 都有紫色。</p> </br> <p>目前尚不清楚独特的紫色是否会根据光照条件主动改变万花筒效果，或者只是使用 iPhone 13 Pro 远峰蓝背后的技术，它的外观比其他颜色选项变化更大。这是因为 苹果专门为远峰蓝采用了新的生产工艺，该工艺使用“在表面应用多层纳米级金属陶瓷，以获得令人惊叹和耐用的表面处理”。</p> </br> <p>总体而言，iPhone 14 和 iPhone 14 Pro 的颜色选项选择可能看起来与 iPhone 12、iPhone 12 Pro、iPhone 13 和 iPhone 13 Pro 的颜色选项非常相似，其中重新引入了紫色色调。</p>"},
+        {
+            "id": 4,
+            "newsTitle": "iPhone14最新消息汇总",
+            "newsImg": "https://inews.gtimg.com/newsapp_bt/0/14788527729/1000",
+            "newsCon": "iPhone14最新消息汇总，要不再用一年？",
+            "newsTime": "2022-4-10",
+            "newsDetail": "<p style='margin-top:110px;margin-bottom:10px'>消息1：iPhone14机型和发售时间</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527730/1000' style='margin-bottom:10px;width:100%'><p>△ iPhone尺寸标注</p><p>根据当前各种可靠性未知的消息，iPhone14系列共包含四款机型，分别是：iPhone14-6.1英寸，iPhone14 Max-6.7英寸，iPhone14 Pro-6.1英寸，和iPhone14 Pro Max-6.7英寸。2022年的秋季发布会上公布，具体发售时间应该在发布会后几天。</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527731/1000' style='margin-bottom:10px;width:100%'><p>△ 网传iPhone14尺寸标注</p><p>消息2：iPhone14屏幕供应商</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527777/1000' style='margin-bottom:10px;width:100%'><p>△ 网传iPhone14渲染图</p><p>根据当前各种可靠性未知的消息，iPhone14机型的屏幕供应商有2到3家，其中iPhone14 Pro Max机型的屏幕将全部采用三星独家供货，其他机型将随机分配屏幕供应商。另网传，京东方今年将为苹果供应3000万块OLED屏幕，iPhone14也在供货范围内。所以综合分析，这2到3家的屏幕供货商应该是三星，京东方，和LG。</p><p>消息3：iPhone14机型外观颜色和配置</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527778/1000' style='margin-bottom:10px;width:100%'><p>△ 网传iPhone14渲染图</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527779/1000' style='margin-bottom:10px;width:100%'><p>△ 网传iPhone14配置</p><p>根据当前各种可靠性未知的消息，iPhone14系列机型中，iPhone14和iPhone14 Max的外观颜色包含：黑色，白色，蓝色，红色和紫色。iPhone14 Pro和iPhone14 Pro Max的颜色包含：石墨色，金色，银色和紫色。且还会使用某种特殊工艺处理紫色款机型，使其表面可以根据光线条件变换自身颜色。这两天，iPhone14系列机型的金属机模被曝光，发现了iPhone14的一款全新配色：肉色（或者橙色），喜欢吗？</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527855/1000' style='margin-bottom:10px;width:100%'><p>△ 网传iPhone14最新配色</p><p>消息4：iPhone14接口速度升级为USB3.0</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527857/1000' style='margin-bottom:10px;width:100%'><p>根据当前各种可靠性未知的消息，iPhone14 Pro和iPhone14 Pro Max机型的接口速度有望从USB2.0速度，提升到USB3.0速度。当然，接口依旧是Lightning接口。</p><p>消息5：iPhone14 Pro边角弧度更大</p><img src='https://inews.gtimg.com/newsapp_bt/0/14788527858/1000' style='margin-bottom:10px;width:100%'><p>△ iPhone14 Pro边角弧度会更大</p><p>根据当前各种可靠性未知的消息，iPhone14 Pro机型的边角弧度与iPhone13 Pro相比将会变的更大，以配合更大尺寸的后置摄像阵列。以上就是关于iPhone14的最新消息汇总。</p>"
+         }
+    ]
+}
